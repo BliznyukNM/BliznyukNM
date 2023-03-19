@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita Blizniuk
 - 👀 I’m interested in game development. I am professional Unity Developer and huge fan of Godot Engine
-- 🌱 I’m currently working on my own MOBA manager project
+- 🌱 I’m currently working on Space Simulation game
 - 📫 You can reach me via my email bliznyuknm@gmail.com
 
 <!---
